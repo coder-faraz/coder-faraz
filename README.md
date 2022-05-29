@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder-faraz
 - 👀 I’m interested in software programming & automation with python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning css & javascript
 - 💞️ I’m looking to collaborate on software projects
 - 📫 Reach me by using my email address: hfaraz316@gmail.com
 
