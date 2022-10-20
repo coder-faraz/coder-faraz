@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @coder-faraz
-- 👀 I’m interested in software programming & automation with python
-- 🌱 I’m currently learning css & javascript
-- 💞️ I’m looking to collaborate on software projects
+- 👋 Hi, I’m Faraz Husain
+- 👀 I’m interested in web development & creating single page applications using reactjs
+- 🌱 I’m currently learning react library of javascript
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me by using my email address: hfaraz316@gmail.com
 
 <!---
